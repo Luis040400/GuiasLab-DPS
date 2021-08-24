@@ -36,6 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
 form input{
   height: 26px;
   border-radius: 5%;
@@ -43,7 +44,7 @@ form input{
   vertical-align: auto;
 }
 form button{
-  cursor: pointer;
+  cursor:pointer;
   display: inline-block;
   text-align: center;
   text-decoration: none;
@@ -56,8 +57,9 @@ form button{
   height: 30px;
   width: 120px;
 }
+
 h3{
-  margin:0;
+  margin: 0;
 }
 .list{
   display: flex;
